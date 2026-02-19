@@ -1,5 +1,7 @@
 # Snake Project - Basics of Computer Programming 2024/25
 
+<img width="1493" height="954" alt="image1" src="https://github.com/user-attachments/assets/450a5edb-d555-4522-a41b-6532d47de48d" />
+
 ## Project Overview
 This is a classic "Snake" video game implementation created for the Basics of Computer Programming course. The project strictly follows the requirement of not using the C++ Standard Template Library (no `std::string`, `std::vector`, etc.). Data structures and memory management are handled using raw arrays and the C standard library.
 
